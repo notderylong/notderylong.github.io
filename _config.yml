@@ -5,3 +5,6 @@ description: this is not deryl's website...
 # Social links
 github_username:  notderylong
 orcid_username: 0000-0003-3840-7490
+
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name is Deryl and i'm trying to show you how to make a website 
